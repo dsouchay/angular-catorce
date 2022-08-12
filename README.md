@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Instrucciones
+new app con npx angular 14
+añadir angular material
+añadir estructura css que siga la metodologia bem (use fordward), estructura por carpetas y por separados ..fordward en  lugar del import el fordward
+
+menu navegacion al uso con rutas
+
+
+extender los componetnes de material
+Un equeño formulario de contacto
+Probar novedades de angular 14. titulos, 
+
+Estructurarlo, componente base....todos tengan un unsubcribe, que es un subject,
+
+componentes listos(procesan datos) y tontos(presentar datos),
